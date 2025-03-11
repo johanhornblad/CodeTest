@@ -1,0 +1,77 @@
+# Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.log
+*.csproj.user
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+*.builds
+*.pidb
+*.svclog
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.json
+project.fragment.json
+project.lock.json
+artifacts/
+
+# NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+resharper-host/
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+*.codecov
+*.coverage.info
+TestResults/
+*.opencover.xml
+*.cobertura.xml
+*.lcov
+
+# Others
+*.bak
+*.swp
+*.tmp
